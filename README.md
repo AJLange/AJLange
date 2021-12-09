@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a former Microsoft engineer, current college professor at Kutztown U. Working on some new side projects and expanding my knowledge.\
+I'm a former Microsoft engineer, current college professor at Kutztown U. Working on some new side projects and expanding my knowledge.
 
 
 🌱 I’m currently learning: Python and modern web stack approaches\
 🔭 I’m currently working on: Vtubing on Twitch.tv/litagemini\
 📫 How to reach me: Discord or Twitter. Twitter is http://www.twitter.com/lita_gemini\
 😄 Pronouns: She/Her\
-💬 Ask me about: Video Games, Cartoons, Vtubers!\
+💬 Ask me about: Video Games, Cartoons, Vtubers!
 
 
 <!--
