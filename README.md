@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a former Microsoft engineer, current college professor at Kutztown U. Working on some new side projects and expanding my knowledge.\
-\
+
 
 🌱 I’m currently learning: Python and modern web stack approaches\
 🔭 I’m currently working on: Vtubing on Twitch.tv/litagemini\
