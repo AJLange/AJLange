@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a former Microsoft engineer, current college professor at Kutztown U. Working on some new side projects and expanding my knowledge.
+I'm the Community Manager for Alexa Developers! Former Microsoft engineer, and former college professor at Kutztown U. 
+Working on some new side projects and expanding my knowledge. Game, web, and chat tools!
 
 
 - 🌱 I’m currently learning: Django, Algorithms, Alexa
