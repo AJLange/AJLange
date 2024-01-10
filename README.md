@@ -4,8 +4,8 @@ Former Alexa Community Manager, Former Microsoft engineer, and former college pr
 Working on some new side projects and expanding my knowledge. Game, web, and chat tools!
 
 
-- 🌱 I’m currently learning: Django, Algorithms, Alexa
-- 🔭 I’m currently working on: Multiplayer Game Dev, Alexa Skills Development, and Vtubing on Twitch.tv/litagemini 
+- 🌱 I’m currently learning: Django, AI, other things unrelated to code
+- 🔭 I’m currently working on: Multiplayer Game Dev and Vtubing on Twitch.tv/litagemini 
 - 📫 How to reach me: Discord or Twitter. Twitter is http://www.twitter.com/lita_gemini  
 - 😄 Pronouns: She/Her  
 - 💬 Ask me about: Video Games, Cartoons, Vtubers!
