@@ -5,8 +5,7 @@ Working on some new side projects and expanding my knowledge. Game, web, and cha
 
 
 - 🌱 I’m currently learning: Django, AI, other things unrelated to code
-- 🔭 I’m currently working on: Multiplayer Game Dev and Vtubing 
-- 📫 How to reach me: Discord or Twitter. Twitter is http://www.twitter.com/lita_gemini  
+- 🔭 I’m currently working on: Twilio code
 - 😄 Pronouns: She/Her  
 - 💬 Ask me about: Video Games, Cartoons, Vtubers!
 
