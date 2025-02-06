@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Former Alexa Community Manager, Former Microsoft engineer, and former college professor at Kutztown U. 
-Working on some new side projects and expanding my knowledge. Game, web, and chat tools!
+I work at Twilio! Former Alexa Community Manager, Former Microsoft engineer, and former college professor at Kutztown U. 
+Working on some new side projects, expanding my knowledge, and contributing to Twilio demos. 
 
 
 - 🌱 I’m currently learning: Django, AI, other things unrelated to code
 - 🔭 I’m currently working on: Twilio code
 - 😄 Pronouns: She/Her  
-- 💬 Ask me about: Video Games, Cartoons, Vtubers!
+- 💬 Ask me about: Communcation, Video Games, Cartoons, Vtubers!
 
 
 <!--
